@@ -121,7 +121,7 @@
             "blendMode": 0,
             "isLocked": false,
             "name": "Layer 1",
-            "opacity": 100,
+            "opacity": 50,
             "visible": true
         }
     ],
