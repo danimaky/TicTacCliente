@@ -1,0 +1,41 @@
+Converting GML script : ${project_dir}\scripts\header\header.gml
+Converted description : /// @description Draw rectangle as header background
+
+Converting GML script : ${project_dir}\scripts\footer\footer.gml
+Converted description : /// @description Draw rectangle as footer background
+
+!!! Font fontLabel uses a font (Roboto Regular) not installed on this system. Font has NOT been regenerated.
+!!! Font fontTitle uses a font (Roboto Regular) not installed on this system. Font has NOT been regenerated.
+!!! Font fontButton uses a font (Roboto Medium) not installed on this system. Font has NOT been regenerated.
+!!! Font fontText uses a font (Roboto Regular) not installed on this system. Font has NOT been regenerated.
+!!! Font fontHuge uses a font (Roboto Thin) not installed on this system. Font has NOT been regenerated.
+!!! Font fontSmall uses a font (Roboto Regular) not installed on this system. Font has NOT been regenerated.
+!!! Font fontDebug uses a font (Roboto Bold) not installed on this system. Font has NOT been regenerated.
+Converting GML script : ${project_dir}\objects\objSelect\Create_0.gml
+Converted description : /// @description Initialize variable
+
+Converting GML script : ${project_dir}\objects\objSelect\Step_0.gml
+Converted description : /// @description Change cursor on hover controls
+
+Converting GML script : ${project_dir}\objects\objSelect\Other_5.gml
+Converted description : /// @description Clear all controls
+
+Converting GML script : ${project_dir}\objects\objSelect\Draw_64.gml
+Converted description : /// @description Draw GUI and Controls
+
+Converting GML script : ${project_dir}\objects\objSelect\Draw_0.gml
+Converted description : /// @description Draw instance elements
+
+Converting GML script : ${project_dir}\objects\objTextbox\Create_0.gml
+Converted description : /// @description Initialize variable
+
+Converting GML script : ${project_dir}\objects\objTextbox\Other_5.gml
+Converted description : /// @description Clear all controls
+
+Converting GML script : ${project_dir}\objects\objTextbox\Draw_64.gml
+Converted description : /// @description Draw GUI and Controls
+
+Converting GML script : ${project_dir}\objects\objTextbox\Draw_0.gml
+Converted description : /// @description Draw instance elements
+
+!!! Font fontKeyboard uses a font (Roboto Regular) not installed on this system. Font has NOT been regenerated.

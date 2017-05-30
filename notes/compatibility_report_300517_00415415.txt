@@ -1,0 +1,41 @@
+Converting GML script : ${project_dir}\scripts\textbox_text_insert\textbox_text_insert.gml
+Converted description : /// @description textbox_text_insert(textbox, text)/// @function textbox_text_insert
+/// @param textbox
+/// @param  text
+
+Converting GML script : ${project_dir}\scripts\textbox_text_selected_get\textbox_text_selected_get.gml
+Converted description : /// @description textbox_text_selected_get(textbox)/// @function textbox_text_selected_get
+/// @param textbox
+
+Converting GML script : ${project_dir}\scripts\textbox_text_selected_remove\textbox_text_selected_remove.gml
+Converted description : /// @description textbox_text_selected_remove(textbox)/// @function textbox_text_selected_remove
+/// @param textbox
+
+Converting GML script : ${project_dir}\objects\obj_textbox\Keyboard_1.gml
+Converted string : line 122 : "\#" -> "\\#"
+
+Converting GML script : ${project_dir}\objects\obj_textbox\Other_10.gml
+Converted description : /// @description Free the surface
+
+Converting GML script : ${project_dir}\scripts\string_get_lowest_index\string_get_lowest_index.gml
+Converted description : /// @description string_get_lowest_index(string, find, lowest)/// @function string_get_lowest_index
+/// @param string
+/// @param  find
+/// @param  lowest
+
+Converting GML script : ${project_dir}\scripts\textbox_text_selected_set\textbox_text_selected_set.gml
+Converted description : /// @description textbox_text_selected_set(textbox, selectedStart, cursorPosition)/// @function textbox_text_selected_set
+/// @param textbox
+/// @param  selectedStart
+/// @param  cursorPosition
+
+Converting GML script : ${project_dir}\scripts\string_get_highest_index\string_get_highest_index.gml
+Converted description : /// @description string_get_highest_index(string, find, highest)/// @function string_get_highest_index
+/// @param string
+/// @param  find
+/// @param  highest
+
+Converting GML script : ${project_dir}\scripts\textbox_get_cursor_at\textbox_get_cursor_at.gml
+Converted description : /// @description textbox_get_cursor_at(textbox, xCoordinate)/// @function textbox_get_cursor_at
+/// @param textbox
+/// @param  xCoordinate
